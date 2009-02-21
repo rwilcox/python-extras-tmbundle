@@ -15,6 +15,7 @@
 			<dict>
 				<key>items</key>
 				<array>
+					<string>FE7E6D85-727C-4E6C-A420-C3E9A5E89C80</string>
 					<string>614AA957-A665-4927-9E49-F1404281A272</string>
 				</array>
 				<key>name</key>
@@ -24,6 +25,16 @@
 	</dict>
 	<key>name</key>
 	<string>Python Extras</string>
+	<key>ordering</key>
+	<array>
+		<string>AD5B91E1-7DF0-4E4C-B794-591640FAFD08</string>
+		<string>190010F6-A759-44C1-A994-479847B23A97</string>
+		<string>F56FF4EE-A9D5-41AF-8866-22D47A7025CA</string>
+		<string>359FD3A4-000A-4B63-B5C1-D6C758E6CB38</string>
+		<string>614AA957-A665-4927-9E49-F1404281A272</string>
+		<string>FE7E6D85-727C-4E6C-A420-C3E9A5E89C80</string>
+		<string>D4092431-A6E8-4C1F-BE41-F7202E2EEC7C</string>
+	</array>
 	<key>uuid</key>
 	<string>862A2DE4-F52E-48CF-8EA6-9AE05DAA6E6E</string>
 </dict>
