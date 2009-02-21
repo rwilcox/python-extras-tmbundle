@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>924F64FF-8A49-48E8-AA02-3B68E4A257B2</string>
+			<string>359FD3A4-000A-4B63-B5C1-D6C758E6CB38</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>924F64FF-8A49-48E8-AA02-3B68E4A257B2</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>614AA957-A665-4927-9E49-F1404281A272</string>
+				</array>
+				<key>name</key>
+				<string>Resources</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Python Extras</string>
+	<key>uuid</key>
+	<string>862A2DE4-F52E-48CF-8EA6-9AE05DAA6E6E</string>
+</dict>
+</plist>
