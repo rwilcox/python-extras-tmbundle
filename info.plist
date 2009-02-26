@@ -6,11 +6,32 @@
 	<dict>
 		<key>items</key>
 		<array>
+			<string>83075039-01E5-4DDD-AC81-EC79E99F5C91</string>
 			<string>924F64FF-8A49-48E8-AA02-3B68E4A257B2</string>
 			<string>359FD3A4-000A-4B63-B5C1-D6C758E6CB38</string>
+			<string>65721D4D-7752-402A-89A0-A8C00E280E5F</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>83075039-01E5-4DDD-AC81-EC79E99F5C91</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>BD738281-6119-4FE0-BCB2-C279697F4B3A</string>
+					<string>803C2899-2ED2-44F2-AE79-819ECEBFCF97</string>
+					<string>F56FF4EE-A9D5-41AF-8866-22D47A7025CA</string>
+					<string>------------------------------------</string>
+					<string>7DCCE09F-E596-42F7-AF7D-814CE14F3BF0</string>
+					<string>------------------------------------</string>
+					<string>AD5B91E1-7DF0-4E4C-B794-591640FAFD08</string>
+					<string>190010F6-A759-44C1-A994-479847B23A97</string>
+					<string>6A34B01B-9250-43AF-8563-8E47FABA6E77</string>
+					<string>D07F50BE-9DC8-4F76-96FB-88DD69E3F3C1</string>
+					<string>2065BBC9-C4FC-49B8-A36C-804721F97B9C</string>
+				</array>
+				<key>name</key>
+				<string>Tests</string>
+			</dict>
 			<key>924F64FF-8A49-48E8-AA02-3B68E4A257B2</key>
 			<dict>
 				<key>items</key>
@@ -33,11 +54,17 @@
 		<string>D07F50BE-9DC8-4F76-96FB-88DD69E3F3C1</string>
 		<string>2065BBC9-C4FC-49B8-A36C-804721F97B9C</string>
 		<string>F56FF4EE-A9D5-41AF-8866-22D47A7025CA</string>
+		<string>803C2899-2ED2-44F2-AE79-819ECEBFCF97</string>
+		<string>BD738281-6119-4FE0-BCB2-C279697F4B3A</string>
 		<string>359FD3A4-000A-4B63-B5C1-D6C758E6CB38</string>
 		<string>614AA957-A665-4927-9E49-F1404281A272</string>
 		<string>FE7E6D85-727C-4E6C-A420-C3E9A5E89C80</string>
 		<string>7DCCE09F-E596-42F7-AF7D-814CE14F3BF0</string>
 		<string>65721D4D-7752-402A-89A0-A8C00E280E5F</string>
+		<string>1567C4DF-D1F4-40E8-966E-4C5377975D0C</string>
+		<string>25C03251-CC8B-4716-89DF-0A15DCB15D06</string>
+		<string>D15389C4-E969-4EB5-AB89-CD6E0BE7EFC2</string>
+		<string>D61BA50E-CD1A-403E-A2F9-05139E16B979</string>
 	</array>
 	<key>uuid</key>
 	<string>862A2DE4-F52E-48CF-8EA6-9AE05DAA6E6E</string>

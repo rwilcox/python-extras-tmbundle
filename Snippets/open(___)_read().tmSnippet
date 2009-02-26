@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>with open(${1:'${2:/path/to/file}'}) as ${3:f}:
+	${4:s} = $3.read()
+$0</string>
+	<key>name</key>
+	<string>open(...).read()</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>file</string>
+	<key>uuid</key>
+	<string>25C03251-CC8B-4716-89DF-0A15DCB15D06</string>
+</dict>
+</plist>

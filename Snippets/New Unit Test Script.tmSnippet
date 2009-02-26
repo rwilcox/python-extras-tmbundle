@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>"${1:Test Script description}"
+from __future__ import with_statement
+
+import sys
+import os
+import unittest
+
+$0
+
+if __name__ == "__main__":
+    unittest.main()
+</string>
+	<key>name</key>
+	<string>New Unit Test Script</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>unittest</string>
+	<key>uuid</key>
+	<string>BD738281-6119-4FE0-BCB2-C279697F4B3A</string>
+</dict>
+</plist>
