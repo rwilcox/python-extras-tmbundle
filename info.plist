@@ -6,13 +6,29 @@
 	<dict>
 		<key>items</key>
 		<array>
+			<string>09D1DE5C-27FD-4327-8D9C-395BA8AA2F6C</string>
 			<string>83075039-01E5-4DDD-AC81-EC79E99F5C91</string>
 			<string>924F64FF-8A49-48E8-AA02-3B68E4A257B2</string>
+			<string>------------------------------------</string>
 			<string>359FD3A4-000A-4B63-B5C1-D6C758E6CB38</string>
+			<string>8FE42179-82CA-43A2-A0CD-3E1CBE80A7AB</string>
+			<string>------------------------------------</string>
 			<string>65721D4D-7752-402A-89A0-A8C00E280E5F</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>09D1DE5C-27FD-4327-8D9C-395BA8AA2F6C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>1567C4DF-D1F4-40E8-966E-4C5377975D0C</string>
+					<string>25C03251-CC8B-4716-89DF-0A15DCB15D06</string>
+					<string>D15389C4-E969-4EB5-AB89-CD6E0BE7EFC2</string>
+					<string>D61BA50E-CD1A-403E-A2F9-05139E16B979</string>
+				</array>
+				<key>name</key>
+				<string>Files</string>
+			</dict>
 			<key>83075039-01E5-4DDD-AC81-EC79E99F5C91</key>
 			<dict>
 				<key>items</key>
@@ -65,6 +81,7 @@
 		<string>25C03251-CC8B-4716-89DF-0A15DCB15D06</string>
 		<string>D15389C4-E969-4EB5-AB89-CD6E0BE7EFC2</string>
 		<string>D61BA50E-CD1A-403E-A2F9-05139E16B979</string>
+		<string>8FE42179-82CA-43A2-A0CD-3E1CBE80A7AB</string>
 	</array>
 	<key>uuid</key>
 	<string>862A2DE4-F52E-48CF-8EA6-9AE05DAA6E6E</string>

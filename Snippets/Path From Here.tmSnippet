@@ -3,15 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>with open(${1:${2:/path/to/file}'}) as ${3:f}:
-	$0</string>
+	<string>os.path.join(os.path.dirname(__file__), ${1:'${2:relative/path'}'})</string>
 	<key>name</key>
-	<string>with file...</string>
-	<key>scope</key>
-	<string>source.python</string>
+	<string>Path From Here</string>
 	<key>tabTrigger</key>
-	<string>file</string>
+	<string>pathfh</string>
 	<key>uuid</key>
-	<string>D61BA50E-CD1A-403E-A2F9-05139E16B979</string>
+	<string>8FE42179-82CA-43A2-A0CD-3E1CBE80A7AB</string>
 </dict>
 </plist>
