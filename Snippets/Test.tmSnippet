@@ -10,7 +10,7 @@
 	<key>scope</key>
 	<string>source.python</string>
 	<key>tabTrigger</key>
-	<string>test</string>
+	<string>deft</string>
 	<key>uuid</key>
 	<string>F56FF4EE-A9D5-41AF-8866-22D47A7025CA</string>
 </dict>

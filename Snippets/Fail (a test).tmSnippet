@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>self.assertEqual(${1:expected}, ${2:actual}${3:, '${4:message}'})$0</string>
+	<string>self.fail('${1:message}')$0</string>
 	<key>name</key>
-	<string>Assert Equal</string>
+	<string>Fail (a test)</string>
 	<key>scope</key>
 	<string>source.python</string>
 	<key>tabTrigger</key>
-	<string>ase</string>
+	<string>fail</string>
 	<key>uuid</key>
-	<string>190010F6-A759-44C1-A994-479847B23A97</string>
+	<string>2065BBC9-C4FC-49B8-A36C-804721F97B9C</string>
 </dict>
 </plist>
