@@ -5,20 +5,17 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string># just to remind you of some useful environment variables
-# see Help / Environment Variables for the full list
-echo File: "$TM_FILEPATH"
-echo Word: "$TM_CURRENT_WORD"
-echo Selection: "$TM_SELECTED_TEXT"
+	<string>cd "$TM_PROJECT_DIRECTORY"/"$TEST_DIR"
+python -m tests | pre
 </string>
 	<key>input</key>
-	<string>selection</string>
+	<string>none</string>
 	<key>keyEquivalent</key>
 	<string>^\</string>
 	<key>name</key>
 	<string>Run Tests</string>
 	<key>output</key>
-	<string>replaceSelectedText</string>
+	<string>showAsHTML</string>
 	<key>scope</key>
 	<string>source.python</string>
 	<key>uuid</key>
