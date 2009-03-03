@@ -4,3 +4,7 @@ Includes:
  * additional documentation links 
  * unittest snippets
  * things borrowed and ported from the Ruby bundle
+
+Notes:
+ * The "Make [single|double]-triple-quote" snippets work best if you remove the
+   "Inside String: Insert..." snippets from the official Python bundle.
