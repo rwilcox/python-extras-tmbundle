@@ -5,19 +5,19 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>open "http://www.python.org/dev/peps/pep-0008/"
+	<string>open "http://www.python.org/dev/peps/pep-0257/"
 </string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
 	<string>@H</string>
 	<key>name</key>
-	<string>PEP 8 - Python Style Guide</string>
+	<string>PEP 27 - Docstring Style Guide</string>
 	<key>output</key>
 	<string>discard</string>
 	<key>scope</key>
 	<string>source.python</string>
 	<key>uuid</key>
-	<string>614AA957-A665-4927-9E49-F1404281A272</string>
+	<string>2D7E0501-4399-4F6C-8BA7-9F155434973C</string>
 </dict>
 </plist>

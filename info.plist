@@ -14,6 +14,11 @@
 			<string>8FE42179-82CA-43A2-A0CD-3E1CBE80A7AB</string>
 			<string>------------------------------------</string>
 			<string>65721D4D-7752-402A-89A0-A8C00E280E5F</string>
+			<string>E75BCDCD-1188-4401-9A46-360B7AEDC8FE</string>
+			<string>7E867AAB-5B39-4327-A5A9-7CBCF916593F</string>
+			<string>8806D222-C792-4AAC-957C-19B16AF29134</string>
+			<string>4C72C529-A784-4F92-895E-79E6BC86ABA7</string>
+			<string>249142FB-5974-490D-B916-6A035688AA0F</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -54,6 +59,7 @@
 				<array>
 					<string>FE7E6D85-727C-4E6C-A420-C3E9A5E89C80</string>
 					<string>614AA957-A665-4927-9E49-F1404281A272</string>
+					<string>2D7E0501-4399-4F6C-8BA7-9F155434973C</string>
 				</array>
 				<key>name</key>
 				<string>Resources</string>
@@ -64,6 +70,7 @@
 	<string>Python Extras</string>
 	<key>ordering</key>
 	<array>
+		<string>E75BCDCD-1188-4401-9A46-360B7AEDC8FE</string>
 		<string>AD5B91E1-7DF0-4E4C-B794-591640FAFD08</string>
 		<string>190010F6-A759-44C1-A994-479847B23A97</string>
 		<string>6A34B01B-9250-43AF-8563-8E47FABA6E77</string>
@@ -74,6 +81,7 @@
 		<string>BD738281-6119-4FE0-BCB2-C279697F4B3A</string>
 		<string>359FD3A4-000A-4B63-B5C1-D6C758E6CB38</string>
 		<string>614AA957-A665-4927-9E49-F1404281A272</string>
+		<string>2D7E0501-4399-4F6C-8BA7-9F155434973C</string>
 		<string>FE7E6D85-727C-4E6C-A420-C3E9A5E89C80</string>
 		<string>7DCCE09F-E596-42F7-AF7D-814CE14F3BF0</string>
 		<string>65721D4D-7752-402A-89A0-A8C00E280E5F</string>
@@ -84,6 +92,8 @@
 		<string>8FE42179-82CA-43A2-A0CD-3E1CBE80A7AB</string>
 		<string>7E867AAB-5B39-4327-A5A9-7CBCF916593F</string>
 		<string>8806D222-C792-4AAC-957C-19B16AF29134</string>
+		<string>4C72C529-A784-4F92-895E-79E6BC86ABA7</string>
+		<string>249142FB-5974-490D-B916-6A035688AA0F</string>
 	</array>
 	<key>uuid</key>
 	<string>862A2DE4-F52E-48CF-8EA6-9AE05DAA6E6E</string>
