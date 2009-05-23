@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>raise NotImplemented, "Not yet implemented."</string>
 	<key>name</key>
-	<string>Not Yet Implemented</string>
+	<string>Not Implemented</string>
 	<key>scope</key>
 	<string>source.python</string>
 	<key>tabTrigger</key>
