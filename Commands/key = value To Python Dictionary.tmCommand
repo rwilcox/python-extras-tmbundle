@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env python
+
+import fileinput
+import re
+
+"""
+dictMaker takes a formatted string and generates a Python dictionary
+from it.
+
+Basically: it's easier to type in my format then to deal with all
+the quoting required for dictionary creation
+
+The Format is:
+
+key = value
+
+NOTE that at this time quotes are made around the values. So if you're
+strings just don't add them (elsewise just find and replace the extra
+quotes)
+
+Yes, you COULD use dict(kw=value, ), but if your key is syntaxically wrong for a keyword argument, this might be helpful to you
+"""
+
+a = re.compile("(\w+) = (.+)")
+output = {}
+
+for my_line in fileinput.input():
+    mtch = a.search(my_line)
+    output[ mtch.group(1) ] = mtch.group(2)
+    
+print output</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>name</key>
+	<string>key = value To Python Dictionary</string>
+	<key>output</key>
+	<string>replaceSelectedText</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>uuid</key>
+	<string>28A0AC85-21B5-4265-8056-1063738D75F7</string>
+</dict>
+</plist>
