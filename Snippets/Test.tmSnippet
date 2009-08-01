@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>def test_${1:name}(self):
-	$0</string>
+	${2/.+/"""/}${2:description for $1 (shows up when running unittest)}${2/.+/"""\n/}${2/.+/\t/}${0:pass}</string>
 	<key>name</key>
 	<string>Test</string>
 	<key>scope</key>
