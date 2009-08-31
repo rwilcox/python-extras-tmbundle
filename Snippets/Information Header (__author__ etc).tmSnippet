@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>__author__ = "$TM_FULLNAME &lt;$1&gt;"
+__copyright__ = "$2"
+__license__ = "$3"
+__url__ = "$4"
+__version__ = "$5"
+${6:__credits__ = ["$7", ${8:""}, ${9:""}]}
+</string>
+	<key>name</key>
+	<string>Information Header (__author__ etc)</string>
+	<key>tabTrigger</key>
+	<string>__info__</string>
+	<key>uuid</key>
+	<string>5E1F1C2A-2168-455A-8267-A790DCEFE702</string>
+</dict>
+</plist>
