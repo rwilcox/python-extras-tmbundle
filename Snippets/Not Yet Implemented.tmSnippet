@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>raise NotImplemented, "Not yet implemented."</string>
+	<string>raise NotImplementedError($1)</string>
 	<key>name</key>
 	<string>Not Implemented</string>
 	<key>scope</key>
