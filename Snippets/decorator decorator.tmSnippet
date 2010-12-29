@@ -11,7 +11,7 @@
         # UNDER the @decorator lines. Of course, decorator_or_function could be
         # another decorator (and that's OK, it' doesn't matter to our decorator)
         
-        @wraps(decorator_or_function)
+        @wraps(decorator_or_function)   # from functools import wraps (if you haven't already)
         def kick_it_off(params_for_decorated_function_or_decorator):
             # because this is in the $1 function, the parameters of $1 ("$2") are in scope
             
